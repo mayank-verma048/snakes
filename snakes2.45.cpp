@@ -1,7 +1,7 @@
 /* snakes2.45.cpp */
 /* 
  *
- * Copyright 2013, 2014 Mayank Verma <mayank.verma048.com>
+ * Copyright 2013, 2014 Mayank Verma <mayank.verma048@gmail.com>
  *
  * This program is free software; you can redistribute it and/or modify it under
  * the terms of the GNU General Public License as published by the Free Software
